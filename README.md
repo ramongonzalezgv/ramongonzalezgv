@@ -26,7 +26,7 @@ With a background in mathematics and finance, my focus is on quantitative financ
 
 ## Selected work
 
-> A few representative projects from my portfolio. Ask me for a deeper dive or private demos.
+> A few representative projects from my portfolio.
 
 - QuantlibPY: Python library for option pricing that supports multiple products, models and engines
 <!-- Core
