@@ -19,7 +19,7 @@ With a background in mathematics and finance, my focus is on quantitative financ
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/style=flat&logo=R&logoColor=white" />
 </p>
 
 
