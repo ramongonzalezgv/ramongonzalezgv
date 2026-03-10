@@ -24,27 +24,14 @@ With a background in mathematics and finance, my focus is on quantitative financ
 </p>
 
 
-## Selected work
+## Main Projects
 
 > A few representative projects from my portfolio.
 
-- QuantlibPY: Python library for option pricing that supports multiple products, models and engines
-<!-- Core
+- **[QuantlibPY](https://github.com/ramongonzalezgv/QuantlibPY)** - Python library for option pricing that supports multiple products, models and engines
+- **[IMC-Prosperity-3](https://github.com/ramongonzalezgv/IMC-Prosperity-3)** - Trading challenge repository with algorithmic trading strategies and backtesting infrastructure
+
+<!-- 
 - Omnia: Decentralized prediction market based in Polygon blockchain
 - Finance tracker: Python application to manage personal finances
--->
-
-<!--
-**ramongonzalezgv/ramongonzalezgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
